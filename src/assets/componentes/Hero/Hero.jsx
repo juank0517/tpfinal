@@ -12,8 +12,8 @@ const Hero = () => {
                 <div className="redes">
                     <a href="https://www.facebook.com/juank0517" target="_blank"><i class="bi bi-facebook"></i></a>
                     <a href="#"><i class="bi bi-twitter"></i></a>
-                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                    <a href="#"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/juan-carlos-frutos-a4894313b/" target="_blank"><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.instagram.com/juankfrutos/" target="_blank"><i class="bi bi-instagram"></i></a>
                 </div>
                 <div className="informacionAdicionalHero">
                     <div className="columnaInfo">

@@ -6,12 +6,12 @@ const Capacitaciones = () => {
             <h3 className="textoDestacado">CAPACITACIONES</h3>
             <h1 className="tituloPrincipal">Realizadas recientemente</h1>
             <div className="contenidoCapacitaciones">
-                <img src="../public/images/html_css.jpg" alt="" />
-                <img src="../public/images/asp.jpg" alt="" />
-                <img src="../public/images/agiles.jpg" alt="" />
-                <img src="../public/images/git.png" alt="" />
-                <img src="../public/images/sqlserver.jpg" alt="" />
-                <img src="../public/images/bubble.png" alt="" />
+                <img src="images/html_css.jpg" alt="" />
+                <img src="images/asp.jpg" alt="" />
+                <img src="images/agiles.jpg" alt="" />
+                <img src="images/git.png" alt="" />
+                <img src="images/sqlserver.jpg" alt="" />
+                <img src="images/bubble.png" alt="" />
             </div>
             <button>Ver más <i class="bi bi-arrow-right-short"></i></button>
         </section>

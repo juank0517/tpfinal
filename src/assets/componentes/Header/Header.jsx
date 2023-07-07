@@ -7,7 +7,7 @@ const Header = () => {
 
     return(
         <header>
-            <img className="logo" src="/../public/images/logo.svg" alt="" />
+            <img className="logo" src="images/logo.svg" alt="" />
             <nav className={mostrarMenu ? "mostrar" : ""}>
                 <div className='btnCerrarMenu'><a href='#' onClick={() => setMostrarMenu(false)}>X</a></div>
                 <a href="">Inicio</a>

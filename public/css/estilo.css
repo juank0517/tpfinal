@@ -500,12 +500,13 @@ footer img {
         display: flex;
         flex-direction: column;
         height: 100%;
-        position: absolute;
+        position: fixed;
         width: 30%;
         right: 0;
         bottom: 0;
         background-color: white;
         align-items: center;
+        z-index: 2;
     }
 
     header .menu {

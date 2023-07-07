@@ -9,7 +9,7 @@ const Header = () => {
         <header>
             <img className="logo" src="images/logo.svg" alt="" />
             <nav className={mostrarMenu ? "mostrar" : ""}>
-                <div className='btnCerrarMenu'><a href='#' onClick={() => setMostrarMenu(false)}>X</a></div>
+                <div className='btnCerrarMenu'><a href='javascript:void(0)' onClick={() => setMostrarMenu(false)}>X</a></div>
                 <a href="">Inicio</a>
                 <a href="#servicios">Servicios</a>
                 <a href="#capacitaciones">Capacitaciones</a>

@@ -10,7 +10,7 @@ const Hero = () => {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam suscipit, voluptatibus vitae aspernatur asperiores ducimus odit nulla quasi in doloremque libero obcaecati ea quaerat aliquid dicta eum, eaque distinctio accusamus!</p>
                 <h4>ENCUENTRAME EN</h4>
                 <div className="redes">
-                    <a href="#"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.facebook.com/juank0517" target="_blank"><i class="bi bi-facebook"></i></a>
                     <a href="#"><i class="bi bi-twitter"></i></a>
                     <a href="#"><i class="bi bi-linkedin"></i></a>
                     <a href="#"><i class="bi bi-instagram"></i></a>

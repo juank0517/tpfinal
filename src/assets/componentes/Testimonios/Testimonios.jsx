@@ -17,7 +17,7 @@ const Testimonios = () => {
                             <i class="bi bi-star"></i>
                         </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam assumenda aliquam iste error quo sint maxime doloribus, ex deserunt numquam fugit suscipit, magnam neque nisi quaerat voluptatibus soluta. Voluptas, repudiandae?</p>
+                    <p>Ha asumido una gran responsabilidad para el equipo y has ayudado a formar a nuestros nuevos compañeros con la máxima dedicación y compromiso.</p>
                     <div class="usuario">
                         <img src="images/usuario-sin-foto.png" alt="" />
                         <div class="informacionUsuario">
@@ -37,7 +37,7 @@ const Testimonios = () => {
                             <i class="bi bi-star"></i>
                         </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam assumenda aliquam iste error quo sint maxime doloribus, ex deserunt numquam fugit suscipit, magnam neque nisi quaerat voluptatibus soluta. Voluptas, repudiandae?</p>
+                    <p>Se esfuerza por abordar los desacuerdos y encontrar resoluciones aceptables para todos los miembros y partes interesadas.</p>
                     <div class="usuario">
                         <img src="images/usuario-sin-foto.png" alt="" />
                         <div class="informacionUsuario">
@@ -57,7 +57,7 @@ const Testimonios = () => {
                             <i class="bi bi-star"></i>
                         </div>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam assumenda aliquam iste error quo sint maxime doloribus, ex deserunt numquam fugit suscipit, magnam neque nisi quaerat voluptatibus soluta. Voluptas, repudiandae?</p>
+                    <p>Es evidente que te gusta tu trabajo y eso se refleja en la calidad de tus entregas. Agradecemos sinceramente que formes parte de nuestro equipo</p>
                     <div class="usuario">
                         <img src="images/usuario-sin-foto.png" alt="" />
                         <div class="informacionUsuario">

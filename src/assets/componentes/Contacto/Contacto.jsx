@@ -52,11 +52,8 @@ const Contacto = () => {
                         <input type="text" name='asunto' placeholder="Asunto" required />
                     </div>
                     <textarea class="filaFormulario" name='message' min='5' required></textarea>
-                    { !enviado ? <button type='submit'>Enviar Mensaje <i class="bi bi-send"></i></button> : <span>ENVIADO</span>}
+                    { !enviado ? <button type='submit'>Enviar Mensaje <i class="bi bi-send"></i></button> : <div className='enviadoConExito'>ENVIADO</div>}
                 </form>
-                <div className='enviadoConExito'>
-
-                </div>
             </div>
         </section>
     )
